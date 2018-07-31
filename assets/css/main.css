@@ -63,7 +63,7 @@ ol, ul {
 .liDone {
 	list-style-type: none;
 	list-style-position: outside;
-	list-style-image : url('../../images/valide.png');
+	list-style-image : url('../../images/valide.jpg');
 }
 
 .liUndone {
@@ -2319,6 +2319,7 @@ input, select, textarea {
 			float: left;
 			padding: 20px;
 			top: 0.25em;
+			margin-left: 200px;
 		}
 
 		.image.right {
